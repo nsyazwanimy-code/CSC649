@@ -43,4 +43,4 @@ The program correctly counts the words even when extra spaces are entered.
 
 ## Limitation
 
-One limitation of this program is that the character count includes spaces. Therefore, extra spaces will increase the character count.
+One limitation of this program is that the character count includes spaces. Therefore, extra spaces will increase the character count."# CSC649" 
